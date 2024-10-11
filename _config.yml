@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: GH pages test
 description: This is desc
+buttons:
+      github_hide: true # hides "View on Github"
